@@ -1,0 +1,5 @@
+requests==2.28.1
+beautifulsoup4==4.11.1
+
+tiktok-shop-scraper/.keep
+text# Placeholder to keep the directory structure intact. No code is required here.
