@@ -1,0 +1,6 @@
+{
+  "proxy_support": true,
+  "output_formats": ["json", "csv"],
+  "default_output_format": "json",
+  "log_level": "INFO"
+}
